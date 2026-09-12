@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_Classic_Part1 = {
+SpeakStoneSoundLengths_Pack_Classic_Part1 = {
     ["10004_completion.ogg"] = 2.25,
     ["10004_description.ogg"] = 25.07,
     ["10004_progress.ogg"] = 4.45,

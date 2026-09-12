@@ -5499,6 +5499,7 @@ QuestReaderSoundLengths_Pack_Classic_Part1 = {
     ["5482_completion.ogg"] = 13.09,
     ["5482_description.ogg"] = 27.85,
     ["5482_progress.ogg"] = 5.71,
+    ["548_description.ogg"] = 2.28,
     ["549_completion.ogg"] = 5.37,
     ["549_description.ogg"] = 23.99,
     ["54_completion.ogg"] = 19.45,

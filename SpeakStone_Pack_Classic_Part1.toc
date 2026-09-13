@@ -1,5 +1,6 @@
 ## Interface: 110207, 120000, 120001, 120100
 ## X-Interface: 110207, 120000, 120001, 120100
+## X-Wago-ID: 96d2RXGO
 ## Title: SpeakStone Narration - Classic Voices Part 1
 ## Notes: Classic Part 1 quest audio for SpeakStone Narration. Requires SpeakStone_Main.
 ## Author: clhammer weirdautomation@gmail.com, Paratus

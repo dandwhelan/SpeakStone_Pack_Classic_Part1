@@ -4,7 +4,7 @@
 ## Notes: Classic Part 1 quest audio for SpeakStone Narration. Requires SpeakStone_Main.
 ## Author: Nerf, SpeakStone@beanw.co.uk
 ## X-Wago-ID: 96d2RXGO
-## Version: 1.4.5
+## Version: 1.4.2
 
 ## RequiredDeps: SpeakStone_Main
 

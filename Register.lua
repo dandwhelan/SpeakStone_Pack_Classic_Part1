@@ -648,7 +648,7 @@ local voice = {
         [936] = { d = "OrF", c = "TaM" },
         [937] = "NEF",
         [938] = { d = "M", p = "NEF", c = "NEF" },
-        [940] = "NEF",
+        [940] = { d = "NEF", p = "NEM", c = "NEM" },
         [941] = "NEM",
         [945] = "DyF",
         [947] = "NEM",
